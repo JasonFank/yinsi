@@ -1,59 +1,51 @@
-acordo de privacidade do usuário do aplicativo
+Acordo de Privacidade do Utilizador da Aplicação
 
-         Este produto respeita e protege a privacidade pessoal de todos os usuários do serviço. Para fornecer serviços mais precisos e personalizados, o programa do jogo usará e
 
-Divulgação de suas informações pessoais. No entanto, o programa do jogo tratará essas informações com alto grau de diligência e prudência. Salvo disposição em contrário nesta Política de Privacidade, nossa empresa não obterá sua permissão prévia.
+Este produto respeita e protege a privacidade pessoal de todos os usuários do serviço. A fim de fornecer serviços mais precisos e personalizados, os programas de jogos usarão e
 
-Divulgue essas informações externamente ou forneça-as a terceiros. O programa do jogo atualizará esta política de privacidade de tempos em tempos. Ao concordar com este Contrato de Uso de Serviço de Aplicativo, considera-se que você concordou com toda a política de privacidade.
+Divulgue as suas informações pessoais. No entanto, programas de jogos tratarão essa informação com grande cautela. Salvo disposição em contrário nesta política de privacidade, nossa empresa não obterá sua permissão com antecedência.
 
-contente. Esta política de privacidade é parte integrante do acordo de utilização deste serviço de aplicação.
+Divulgação ou fornecimento a terceiros. O programa do jogo atualizará esta política de privacidade de tempos em tempos. Ao concordar com este contrato de uso do serviço de aplicativo, considera-se que você concordou com toda a política de privacidade.
+
+A política de privacidade feliz é parte integrante do uso deste contrato de serviço de aplicativo.
 
 1. Âmbito de aplicação
 
-(a) Quando você usa os serviços de rede deste aplicativo ou visita a página da web desta plataforma de aplicativo, este aplicativo recebe e registra automaticamente as informações em seu navegador e computador, incluindo, mas não se limitando ao seu endereço IP, navegador
+(a) Quando você usa os serviços de rede deste aplicativo ou acessa as páginas da web desta plataforma de aplicativo, este aplicativo receberá e registrará automaticamente informações em seu computador, incluindo, mas não limitado a, seu idioma de uso, data e hora de acesso, informações de funcionalidade de hardware e outros dados;
 
-Dados como tipo de navegador, idioma usado, data e hora de acesso, informações sobre recursos de software e hardware e registros de páginas da web que você precisa;
+(b) Você entende e concorda que as seguintes informações não são aplicáveis a esta política de privacidade:
 
-(b) Você entende e concorda que as seguintes informações não se aplicam a esta política de privacidade:
+(c) As informações de palavra-chave que você insere ao usar os serviços de pesquisa fornecidos por esta plataforma de aplicativo;
 
-(c) Informações de palavras-chave que você insere ao usar o serviço de pesquisa fornecido por esta plataforma de aplicativos;
 
-(d) Violação de disposições legais ou violações das regras deste aplicativo e das medidas que este aplicativo tomou contra você.
+2. Utilização da Informação
 
-2. Uso da informação
+(a) A menos que você tenha obtido sua permissão prévia, este aplicativo não fornecerá, venderá, alugará, compartilhará ou comercializará suas informações pessoais a terceiros não relacionados, nem fornecerá licenças a terceiros e afiliados deste aplicativo (incluindo este aplicativo)
+(Empresa) fornece serviços a você individualmente ou em conjunto, e após a rescisão do serviço, eles serão proibidos de acessar todos esses materiais, incluindo aqueles a que anteriormente tiveram acesso.
 
-(a) Este aplicativo não fornecerá, venderá, alugará, compartilhará ou comercializará suas informações pessoais com terceiros não relacionados, a menos que você obtenha sua permissão antecipadamente, ou o terceiro e este aplicativo (incluindo este aplicativo) Afiliados do aplicativo
-
-(empresa) fornecer serviços a você, individualmente ou em conjunto, e após o término do serviço, eles serão proibidos de acessar todos esses materiais, incluindo aqueles que eles conseguiram acessar antes.
-
-(b) Este aplicativo também não permite que terceiros coletem, editem, vendam ou distribuam suas informações pessoais gratuitamente por qualquer meio. Se algum usuário desta plataforma de aplicativos se envolver nas atividades acima, uma vez descoberto, ele deverá ser
-
+(b) Este aplicativo também não permite que terceiros coletem, editem, vendam ou distribuam suas informações pessoais gratuitamente de qualquer forma. Se algum usuário da plataforma de aplicativo participar das atividades acima, uma vez descoberto, eles devem
 O usuário tem o direito de rescindir imediatamente o contrato de serviço com o usuário.
 
-(c) Com a finalidade de atender aos usuários, este aplicativo pode usar suas informações pessoais para fornecer informações de seu interesse, incluindo, entre outras, enviar informações sobre produtos e serviços ou entrar em contato com você por meio deste aplicativo.
+(c) A fim de servir os usuários, este aplicativo pode usar suas informações pessoais para fornecer informações que lhe interessam, incluindo, mas não limitado a, enviar informações sobre produtos e serviços ou contatá-lo através deste aplicativo.
+Os parceiros partilham informações para lhe enviarem informações sobre os seus produtos e serviços (estes últimos requerem o seu consentimento prévio).
 
-Os parceiros partilham informações para que possam enviar-lhe informações sobre os seus produtos e serviços (este último requer o seu consentimento prévio).
 
-3. Divulgação de informações
+3. Divulgação da informação
+Nas seguintes situações, este aplicativo divulgará toda ou parte de suas informações pessoais de acordo com seus desejos pessoais ou requisitos legais:
 
-Nas seguintes circunstâncias, este aplicativo divulgará todas ou parte de suas informações pessoais com base em seus desejos pessoais ou disposições legais:
+(a) Divulgação a terceiros com o seu consentimento prévio;
 
-(a) Divulgado a terceiros com o seu consentimento prévio;
+(b) Para fornecer os produtos e serviços que você precisa, suas informações pessoais devem ser compartilhadas com terceiros;
 
-(b) Para fornecer os produtos e serviços que você solicita, suas informações pessoais devem ser compartilhadas com terceiros;
+(c) Divulgar a terceiros ou instituições administrativas ou judiciais de acordo com as disposições legais relevantes ou requisitos das instituições administrativas ou judiciais;
 
-(c) Divulgar a terceiros ou órgãos administrativos ou judiciais de acordo com as disposições relevantes da lei ou exigências dos órgãos administrativos ou judiciais;
+(d) Se você for um requerente qualificado de propriedade intelectual e já tiver apresentado uma reclamação, divulgue-a ao requerido a seu pedido para que ambas as partes possam resolver potenciais disputas de direitos;
 
-(d) Se você for um reclamante qualificado de propriedade intelectual e tiver apresentado uma reclamação, divulgue-a ao réu, a pedido do réu, para que ambas as partes possam lidar com possíveis disputas de direitos;
+(f) Outras divulgações consideradas apropriadas por lei, regulamentos ou políticas do site neste aplicativo.
 
-(e) Em uma transação criada nesta plataforma de aplicativo, se qualquer parte da transação executar ou cumprir parcialmente suas obrigações de transação e fizer uma solicitação de divulgação de informações, este aplicativo terá o direito de decidir fornecer ao usuário as informações da transação.
 
-As informações de contato da outra parte e outras informações necessárias para facilitar a conclusão da transação ou a resolução de disputas.
+4. Armazenamento e intercâmbio de informações
+As informações e materiais coletados por este aplicativo sobre você serão armazenados nos servidores deste aplicativo e/ou suas afiliadas. Essas informações e materiais podem ser transmitidos para o seu país, região ou país onde o aplicativo coleta informações.
 
-(f) Outras divulgações que este aplicativo considere apropriadas de acordo com leis, regulamentos ou políticas do site.
 
-4. Armazenamento e troca de informações
-
-As informações e materiais coletados sobre você por este aplicativo serão armazenados nos servidores deste aplicativo e/ou de suas afiliadas. Essas informações e materiais podem ser transmitidos para o seu país, região ou país onde este aplicativo coleta informações.
-
-As informações e dados estão localizados fora do país e são acessados, armazenados e exibidos fora do país.
+As informações e dados estão localizados no exterior e podem ser acessados, armazenados e exibidos no exterior.
